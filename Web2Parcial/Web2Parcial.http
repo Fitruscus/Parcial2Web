@@ -1,0 +1,6 @@
+@Web2Parcial_HostAddress = http://localhost:5294
+
+GET {{Web2Parcial_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
